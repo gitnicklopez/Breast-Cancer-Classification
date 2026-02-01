@@ -20,11 +20,18 @@ The following models were trained and tested on the standardized dataset:
 ## Metrics Used:
 The models were evaluated based on Accuracy. The Support Vector Classifier (SVC) outperformed the other models with a high degree of precision:
 > ModelAccuracy:
-> > SVC98.90%
-> > Logistic Regression97.80%
-> > Perceptron96.70%KNN96.70%
-> > Decision Tree95.60%
-> > Random Forest95.60%
+> 
+> > SVC-98.90%
+> > 
+> > Logistic Regression-97.80%
+> > 
+> > Perceptron-96.70%
+> >
+> > KNN-96.70%
+> > 
+> > Decision Tree-95.60%
+> > 
+> > Random Forest-95.60%
 
 # Technologies Used
 > Python (Pandas, NumPy)
