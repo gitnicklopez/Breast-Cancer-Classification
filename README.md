@@ -12,9 +12,16 @@ Includes custom functions for target label encoding (M/B to 1/0) and feature sca
 
 ## Models Evaluated
 The following models were trained and tested on the standardized dataset:
-> Support Vector Machine (SVC) - Top PerformerLogistic
-> RegressionPerceptronK-Nearest Neighbors (KNN)
+> Support Vector Machine (SVC) - Top Performer
+> 
+> Logistic Regression
+> 
+> Perceptron
+> 
+> K-Nearest Neighbors (KNN)
+> 
 > Decision Tree
+> 
 > Random ForestResults
 
 ## Metrics Used:
