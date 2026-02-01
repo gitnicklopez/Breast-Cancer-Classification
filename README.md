@@ -35,5 +35,7 @@ The models were evaluated based on Accuracy. The Support Vector Classifier (SVC)
 
 # Technologies Used
 > Python (Pandas, NumPy)
+> 
 > Scikit-learn (Machine Learning models and preprocessing)
+> 
 > Matplotlib (Visualization)
